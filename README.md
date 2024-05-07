@@ -13,9 +13,6 @@ To integrate Cognifyz-UI components into your HTML/CSS projects, follow these si
 
  1. Download the latest release of Cognifyz-UI from the GitHub repository 
  2. Extract the downloaded files and copy the cognifyz-ui.css and cognifyz-ui.js files into your project directory.
- 3. Link the CSS file in your HTML document's '' section:
-
-      <link rel="stylesheet" href="style.css">
      
 # Contributing:
 
@@ -23,4 +20,4 @@ To integrate Cognifyz-UI components into your HTML/CSS projects, follow these si
 - Fork the repository and create a new branch for your feature or bug fix.
 - Make your changes to the CSS or HTML files. Ensure that your changes do not introduce any linting errors or formatting issues.
 - Test your changes thoroughly to ensure they work as expected. Commit your changes and push them to your fork.
-Submit a pull request with a clear description of your changes and why they are necessary.
+- Submit a pull request with a clear description of your changes and why they are necessary.
