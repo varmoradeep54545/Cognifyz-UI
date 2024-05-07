@@ -11,13 +11,11 @@ Cognifyz-UI is a user interface library built with HTML and CSS, designed to sim
 # Usage/Examples
 To integrate Cognifyz-UI components into your HTML/CSS projects, follow these simple steps:
 
- 1. Download the latest release of Cognifyz-UI from the GitHub repository.
- 2. 
- 3. Extract the downloaded files and copy the cognifyz-ui.css and cognifyz-ui.js files into your project directory.
- 4. 
- 5. Link the CSS file in your HTML document's '' section:
+ 1. Download the latest release of Cognifyz-UI from the GitHub repository 
+ 2. Extract the downloaded files and copy the cognifyz-ui.css and cognifyz-ui.js files into your project directory.
+ 3. Link the CSS file in your HTML document's '' section:
 
-     <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="style.css">
      
 # Contributing:
 
